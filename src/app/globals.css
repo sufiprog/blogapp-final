@@ -2,8 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NL:wght@100..400&display=swap');
 
 .playwrite {
-    font-family: 'Playfair Display', serif;
+    font-family: "Playwrite+NL", cursive;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
 }
